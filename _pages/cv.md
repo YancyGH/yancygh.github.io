@@ -35,6 +35,19 @@ Preferred Workship Papers
 ====
 * Yilu Zhou, Hao Sun, **Yang Gao**, "Protecting Children from Inappropriate Mobile Apps: A Text and Image Deep Learning Approach", INFORMS 2nd Workshop on Data Science, 2018
 
+Teaching Experience
+====
+---
+Role: "GTA", "GTA"
+title: "Web Analytics"
+Method: in-person
+Number of sections: "3"
+Number of students: "105"
+Institution: Fordham University
+Semester: "Fall, 2018"
+---
+
+
 Professional Services
 ====
 1.    Volunteer, Conference on Information Systems and Technology (CIST), 2022. Indianapolis, Indiana.
